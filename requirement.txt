@@ -1,0 +1,10 @@
+#python=3.10
+#platform: Windows
+bpy
+cv2
+os
+math
+mathutils
+random
+shutil
+numpy as np
