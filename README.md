@@ -11,3 +11,8 @@ conda env create -f environments.yml
 ```
 After that, you need to link this environment to Blender. You can refer to [How to install Python packages for Blender (Pandas)](https://www.youtube.com/watch?v=gyRoY9QUNg0) for a detailed opration.
 
+## How to use our Blender code
+We provide several scripts.
+Open DP-TPU.blend, switch to "Scripting" function.
+
+`generate_chessboard`
