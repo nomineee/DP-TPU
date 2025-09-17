@@ -26,7 +26,7 @@ Due to copyright reasons, we are unable to provide calibration codes. Please com
 Then, run the matlab script `gre_digital_twin_para.m`. Copy the resulting parameters into the corresponding fields in Blender to complete the digital-twin setup.
 
 ## How to use our Blender code
-The Blender scene is uploaded in Releases. Please download `DP-TPU.blend` and the code from the repository to obtain the complete code.
+The Blender scene is uploaded in Releases. Please download `DP-TPU.blend` and the code from the repository to obtain the complete code. After downloading, place the `DP-TPU.blend` in the main folder `./DP-TPU/`.
 We provide several scripts. Open `DP-TPU.blend`, switch to "Scripting" part. 
 To apply the resulting parameters to your digital twin system, select the script `apply_calib_to_blender` and click Run.
 To generate the chessboard, select the script `generate_chessboard` and click Run.
