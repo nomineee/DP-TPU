@@ -1,4 +1,4 @@
-%sort_nat具体内容
+%sort_nat
 function [cs,index] = sort_nat(c,mode)
 %sort_nat: Natural order sort of cell array of strings.
 % usage:  [S,INDEX] = sort_nat(C)

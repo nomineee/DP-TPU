@@ -8,7 +8,7 @@ end
 dis = dir([pt ext]);
 nms = {dis.name};
 sort_nat_name=sort_nat({dis.name});
-%利用N步相移法求包裹相位
+%N-step phase-shifting
 if strcmp(name,'tif')
 image=uint16(zeros(480,640,length(nms)));
 end
