@@ -1,7 +1,6 @@
 # DP-TPU
 This is the code for Digital-Twin-Driven Unambiguous Structured Light 3D Imaging with Physics-Aware Learning.
-This repository contains the Blender scene to synthesize training data and to run the fringe-projection pipeline for DP-TPU.
-
+This repository contains Blender scenes for synthesizing training data and code for performing fringe projection profilometry (FPP).
 ![fig1](result/fig1.jpg)
 Workflow of the DP-TPU network.
 
